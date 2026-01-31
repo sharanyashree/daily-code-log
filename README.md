@@ -4,3 +4,5 @@ Daily coding practice to build consistency, strengthen problem-solving skills, a
  Day 1: printing hello !!!
 
  Day 2: checking a palindrome for both strings and integer inputs.
+
+ Day 3: reversing a integer inputs.
