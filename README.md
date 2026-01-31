@@ -1,8 +1,8 @@
 # daily-code-log
 Daily coding practice to build consistency, strengthen problem-solving skills, and track long-term progress across languages and concepts.
  
- Day 1: printing hello !!!
+ Day 1: Printing hello !!!
 
- Day 2: checking a palindrome for both strings and integer inputs.
+ Day 2: Checking a palindrome both strings and integer inputs.
 
- Day 3: reversing a integer inputs.
+ Day 3: Reversing a integer inputs.
